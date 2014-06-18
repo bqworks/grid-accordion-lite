@@ -3,7 +3,7 @@ Contributors: bqworks
 Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, shortcode, grid plugin, accordion plugin, touch swipe
 Requires at least: 3.6
 Tested up to: 3.9.1
-Stable tag: 1.0.2
+Stable tag: 1.0.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -11,31 +11,33 @@ Fully responsive and touch-enabled grid accordion plugin for WordPress.
 
 == Description ==
 
-Grid Accordion combines the look and functionality of a grid with that of an accordion. The Lite version of Grid Accordion allows you to create simple image grids which are fully responsive and mobile-friendly.
+https://www.youtube.com/watch?v=1cTgOrWRs_8
 
-Available features in the Lite version:
+Grid Accordion combines the look and functionality of a grid with that of an accordion. The lite version of Grid Accordion allows you to create simple image grids which are fully responsive and mobile-friendly.
+
+Available features in the lite version:
 
 * Fully responsive
 * Touch support
 * Clean and intuitive admin interface
 * Preview grid accordions directly in the admin area
-* Inline information for the admin setting
-* Publish in any post (including pages and custom post types), in PHP code, and widget areas
-* Grid accordions are automatically cached for better load times
+* Drag and drop panel sorting
+* Inline information for the admin settings
 * Customizable number of columns
 * Add links to images
 * Keyboard navigation
 * Mouse wheel navigation
 * SEO-friendly
-* Multisite support
+* Publish grid accordions in any post (including pages and custom post types), in PHP code, and widget areas
+* Caching system for quick loading times
+* Optimized file loading. The JavaScript and CSS files are loaded only in pages where there are grid accordions
+* MultiSite support
 * Unlimited panels in a grid and unlimited grid accordions
-* No ads or donate buttons.
+* Localized for translation
+* No ads
 
-Here is a video tutorial that demonstrates how easy it is to create and publish grid accordions:
 
-https://www.youtube.com/watch?v=1cTgOrWRs_8
-
-If you need more features or simply want to support the development of the Grid Accordion plugin, you can upgrade to the full version. You can read more about the full version of Grid Accordion [here](http://bqworks.com/grid-accordion/).
+If you need more features or simply want to support the development of the Grid Accordion plugin, you can upgrade to the full version. You can read more about the full version of [Grid Accordion](http://bqworks.com/grid-accordion/) at [http://bqworks.com/grid-accordion/](http://bqworks.com/grid-accordion/).
 
 Additional features in the full version:
 
@@ -49,11 +51,13 @@ Additional features in the full version:
 * Swap image when the panel is opened
 * Breakpoints for changing the grid accordion's settings at different screen sizes
 * Action and filter hooks
-* Import and export grid accordion instances
+* Import and export grid accordions
 
 These videos demonstrate the full capabilities of the plugin: 
 
-https://www.youtube.com/watch?v=XqeHLv052Bc&list=PLh-6IaZNuPo7Skwefhb9T2CSazDjC56Lg
+https://www.youtube.com/watch?v=XqeHLv052Bc
+
+Check out the [playlist](https://www.youtube.com/playlist?list=PLh-6IaZNuPo7Skwefhb9T2CSazDjC56Lg) for more videos.
 
 == Installation ==
 
@@ -72,13 +76,13 @@ To publish grid accordions:
 
 Copy the [grid_accordion id="1"] shortcode in the post or page where you want the accordion to appear. You can also insert it in PHP code by using <?php do_shortcode( '[grid_accordion id="1"]' ); ?>, or in the widgets area by using the built-in Grid Accordion widget.
 
-Short usage demonstration:
+Short video demonstration:
 
 https://www.youtube.com/watch?v=1cTgOrWRs_8
 
 == Frequently Asked Questions ==
 
-If you have questions about how to work with the plugin, please see this short demonstration:
+If you have questions about how to work with the plugin, please see this short video demonstration:
 
 https://www.youtube.com/watch?v=1cTgOrWRs_8
 
@@ -99,4 +103,4 @@ When you select an image from the Media Library, in the right columns, under 'AT
 == Changelog ==
 
 = 1.0.2 =
-* The lite version of Grid Accordion is released
+* release of the lite version
