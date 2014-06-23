@@ -3,7 +3,7 @@ Contributors: bqworks
 Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, shortcode, grid plugin, accordion plugin, touch swipe
 Requires at least: 3.6
 Tested up to: 3.9.1
-Stable tag: 1.0.2.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,7 +64,7 @@ Check out the [playlist](https://www.youtube.com/playlist?list=PLh-6IaZNuPo7Skwe
 To install the plugin:
 
 1. Install the plugin through Plugins > Add New > Upload or by copying the unzipped package to wp-content/plugins/.
-2. Activate the Grid Accordion plugin through the 'Plugins' menu in WordPress.
+2. Activate the Grid Accordion plugin through the 'Plugins > Installed Plugins' menu in WordPress.
 
 To create grid accordions:
 
