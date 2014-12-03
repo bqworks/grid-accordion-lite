@@ -2,8 +2,8 @@
 Contributors: bqworks
 Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, shortcode, grid plugin, accordion plugin, touch swipe
 Requires at least: 3.6
-Tested up to: 3.9.1
-Stable tag: 1.0.2
+Tested up to: 4.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -102,5 +102,5 @@ When you select an image from the Media Library, in the right columns, under 'AT
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.1 =
 * release of the lite version
