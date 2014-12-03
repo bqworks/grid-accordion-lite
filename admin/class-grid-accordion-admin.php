@@ -129,7 +129,7 @@ class BQW_Grid_Accordion_Lite_Admin {
 			wp_localize_script( $this->plugin_slug . '-admin-script', 'ga_js_vars', array(
 				'admin' => admin_url( 'admin.php' ),
 				'ajaxurl' => admin_url( 'admin-ajax.php' ),
-				'plugin' => plugins_url( 'grid-accordion' ),
+				'plugin' => plugins_url( 'grid-accordion-lite' ),
 				'page' => isset( $_GET['page'] ) && ( $_GET['page'] === 'grid-accordion-lite-new' || ( isset( $_GET['id'] ) && isset( $_GET['action'] ) && $_GET['action'] === 'edit' ) ) ? 'single' : 'all',
 				'id' => $id,
 				'lad_nonce' => wp_create_nonce( 'load-accordion-data' . $id ),
