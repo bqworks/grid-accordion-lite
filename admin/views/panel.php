@@ -6,7 +6,7 @@
 			if ( $panel_image !== '' ) {
 				echo '<img src="' . esc_url( $panel_image ) . '" />';
 			} else {
-				echo '<p class="no-image">' . __( 'Click to add image', 'grid-accordion' ) . '</p>';
+				echo '<p class="no-image">' . __( 'Click to add image', 'grid-accordion-lite' ) . '</p>';
 			}
 		?>
 	</div>

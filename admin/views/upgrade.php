@@ -1,5 +1,5 @@
 <div class="wrap grid-accordion-admin grid-accordion-upgrade">
-	<h2><?php _e( 'Upgrade to Full Version', 'grid-accordion' ); ?></h2>
+	<h2><?php _e( 'Upgrade to Full Version', 'grid-accordion-lite' ); ?></h2>
     <p>If you need more features or simply want to support the development of the Grid Accordion plugin, you can upgrade to the full version.</p>
     
     <p><a href="http://codecanyon.net/item/grid-accordion-responsive-wordpress-plugin/7788530?ref=bqworks">Buy the full version for only $18 &rarr;</a></p>

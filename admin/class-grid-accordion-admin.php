@@ -134,13 +134,13 @@ class BQW_Grid_Accordion_Lite_Admin {
 				'id' => $id,
 				'lad_nonce' => wp_create_nonce( 'load-accordion-data' . $id ),
 				'sa_nonce' => wp_create_nonce( 'save-accordion' . $id ),
-				'no_image' => __( 'Click to add image', 'grid-accordion' ),
-				'accordion_delete' => __( 'Are you sure you want to delete this accordion?', 'grid-accordion' ),
-				'panel_delete' => __( 'Are you sure you want to delete this panel?', 'grid-accordion' ),
-				'yes' => __( 'Yes', 'grid-accordion' ),
-				'cancel' => __( 'Cancel', 'grid-accordion' ),
-				'accordion_update' => __( 'Grid accordion updated.', 'grid-accordion' ),
-				'accordion_create' => __( 'Grid accordion created.', 'grid-accordion' )
+				'no_image' => __( 'Click to add image', 'grid-accordion-lite' ),
+				'accordion_delete' => __( 'Are you sure you want to delete this accordion?', 'grid-accordion-lite' ),
+				'panel_delete' => __( 'Are you sure you want to delete this panel?', 'grid-accordion-lite' ),
+				'yes' => __( 'Yes', 'grid-accordion-lite' ),
+				'cancel' => __( 'Cancel', 'grid-accordion-lite' ),
+				'accordion_update' => __( 'Grid accordion updated.', 'grid-accordion-lite' ),
+				'accordion_create' => __( 'Grid accordion created.', 'grid-accordion-lite' )
 			) );
 		}
 	}
