@@ -1,9 +1,9 @@
-=== Grid Accordion ===
+5=== Grid Accordion ===
 Contributors: bqworks
-Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, shortcode, grid plugin, accordion plugin, touch swipe
+Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, grid plugin, accordion plugin
 Requires at least: 3.6
-Tested up to: 4.6
-Stable tag: 1.3
+Tested up to: 5.0
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -101,6 +101,10 @@ When you select an image from the Media Library, in the right columns, under 'AT
 3. The preview window in the admin area.
 
 == Changelog ==
+
+= 1.4 =
+* fix compatibility with Gutenberg
+* other fixes and improvements
 
 = 1.3 =
 * fixed missing arrows in admin sidebar panels
