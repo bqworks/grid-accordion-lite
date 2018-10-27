@@ -1,4 +1,4 @@
-5=== Grid Accordion ===
+=== Grid Accordion ===
 Contributors: bqworks
 Tags: grid accordion, responsive grid, image grid, grid plugin, grid widget
 Requires at least: 3.6
