@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Grid Accordion Lite
-	Plugin URI:  http://bqworks.com/grid-accordion/
+	Plugin URI:  https://wordpress.org/plugins/grid-accordion-lite/
 	Description: Responsive and touch-enabled grid accordion. The lite version.
 	Version:     1.4
 	Author:      bqworks
