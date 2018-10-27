@@ -1,6 +1,6 @@
 5=== Grid Accordion ===
 Contributors: bqworks
-Tags: grid accordion, responsive grid, responsive accordion, touch grid, accordion, grid, images, image grid, image accordion, plugin, widget, wordpress grid, wordpress accordion, responsive wordpress grid, responsive wordpress accordion, grid plugin, accordion plugin
+Tags: grid accordion, responsive grid, image grid, grid plugin, grid widget
 Requires at least: 3.6
 Tested up to: 5.0
 Stable tag: 1.4
