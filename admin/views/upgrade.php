@@ -18,7 +18,7 @@
         <li>Action and filter hooks</li>
     </ul>
     
-    <p>You can see some examples and read more about the available features at <a href="http://bqworks.com/grid-accordion/">http://bqworks.com/grid-accordion/</a>.</p>
+    <p>You can see some examples and read more about the available features at <a href="http://bqworks.net/grid-accordion/">http://bqworks.net/grid-accordion/</a>.</p>
     <p>Also, you can check out the <a href="https://www.youtube.com/watch?v=XqeHLv052Bc&list=PLh-6IaZNuPo7Skwefhb9T2CSazDjC56Lg">video tutorials</a> to understand better how the plugin works.</p>
     
     <p><a href="http://codecanyon.net/item/grid-accordion-responsive-wordpress-plugin/7788530">Buy the full version for only $20 &rarr;</a></p>

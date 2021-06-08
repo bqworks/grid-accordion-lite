@@ -37,7 +37,7 @@ Available features in the lite version:
 * No ads
 
 
-If you need more features or simply want to support the development of the Grid Accordion plugin, you can upgrade to the full version. You can read more about the full version of [Grid Accordion](http://bqworks.com/grid-accordion/) at [http://bqworks.com/grid-accordion/](http://bqworks.com/grid-accordion/).
+If you need more features or simply want to support the development of the Grid Accordion plugin, you can upgrade to the full version. You can read more about the full version of [Grid Accordion](http://bqworks.net/grid-accordion/) at [http://bqworks.net/grid-accordion/](http://bqworks.net/grid-accordion/).
 
 Additional features in the full version:
 
