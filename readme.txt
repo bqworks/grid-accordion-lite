@@ -1,4 +1,4 @@
-=== Grid Accordion ===
+=== Grid Accordion Lite ===
 Contributors: bqworks
 Tags: grid accordion, responsive grid, image grid, grid plugin, grid widget
 Requires at least: 3.6
@@ -33,7 +33,6 @@ Available features in the lite version:
 * Unlimited panels in a grid and unlimited grid accordions
 * Localized for translation
 * No ads
-
 
 If you need more features, you can upgrade to the full version, which is now free and available for download at [http://bqworks.net/grid-accordion/](http://bqworks.net/grid-accordion/).
 
