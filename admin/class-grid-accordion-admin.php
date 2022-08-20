@@ -586,7 +586,7 @@ class BQW_Grid_Accordion_Lite_Admin {
 
 		global $wpdb;
 
-		$wpdb->query( "DELETE FROM " . $wpdb->prefix . "options WHERE option_name LIKE '%grid_accordion_cache%'" );
+		$wpdb->query( "DELETE FROM " . $wpdb->prefix . "options WHERE option_name LIKE '%grid_accordion_cache_%' AND NOT option_name = 'grid_accordion_cache_expiry_interval'" );
 
 		echo true;
 
