@@ -34,7 +34,7 @@ Available features in the lite version:
 * Localized for translation
 * No ads
 
-If you need more features, you can upgrade to the full version, which is now free and available for download at [http://bqworks.net/grid-accordion/](http://bqworks.net/grid-accordion/).
+If you need more features, you can upgrade to the full version, which is now free and available for download at [https://bqworks.net/grid-accordion/](https://bqworks.net/grid-accordion/).
 
 Additional features in the full version:
 
@@ -50,7 +50,7 @@ Additional features in the full version:
 * Action and filter hooks
 * Import and export grid accordions
 
-[These videos](http://bqworks.net/grid-accordion/screencasts/) demonstrate the full capabilities of the plugin.
+[These videos](https://bqworks.net/grid-accordion/screencasts/) demonstrate the full capabilities of the plugin.
 
 == Installation ==
 

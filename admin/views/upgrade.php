@@ -1,6 +1,6 @@
 <div class="wrap grid-accordion-admin grid-accordion-upgrade">
 	<h2><?php _e( 'Upgrade to Full Version', 'grid-accordion-lite' ); ?></h2>
-    <p>If you need more features, you can upgrade to the full version, which is now free and available for download at <a href="http://bqworks.net/grid-accordion/">http://bqworks.net/grid-accordion/</a>.</p>
+    <p>If you need more features, you can upgrade to the full version, which is now free and available for download at <a href="https://bqworks.net/grid-accordion/">https://bqworks.net/grid-accordion/</a>.</p>
     
     <p>Some of the available features are:</p>
     <ul>
