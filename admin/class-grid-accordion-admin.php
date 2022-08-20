@@ -165,8 +165,8 @@ class BQW_Grid_Accordion_Lite_Admin {
 
 		$this->plugin_screen_hook_suffixes[] = add_submenu_page(
 			$this->plugin_slug,
-			__( 'Grid Accordion', $this->plugin_slug ),
-			__( 'All Accordions', $this->plugin_slug ),
+			__( 'Grid Accordion', 'grid-accordion-lite' ),
+			__( 'All Accordions', 'grid-accordion-lite' ),
 			$access,
 			$this->plugin_slug,
 			array( $this, 'render_accordion_page' )
@@ -174,8 +174,8 @@ class BQW_Grid_Accordion_Lite_Admin {
 
 		$this->plugin_screen_hook_suffixes[] = add_submenu_page(
 			$this->plugin_slug,
-			__( 'Add New Accordion', $this->plugin_slug ),
-			__( 'Add New', $this->plugin_slug ),
+			__( 'Add New Accordion', 'grid-accordion-lite' ),
+			__( 'Add New', 'grid-accordion-lite' ),
 			$access,
 			$this->plugin_slug . '-new',
 			array( $this, 'render_new_accordion_page' )
@@ -183,8 +183,8 @@ class BQW_Grid_Accordion_Lite_Admin {
 
 		$this->plugin_screen_hook_suffixes[] = add_submenu_page(
 			$this->plugin_slug,
-			__( 'Plugin Settings', $this->plugin_slug ),
-			__( 'Plugin Settings', $this->plugin_slug ),
+			__( 'Plugin Settings', 'grid-accordion-lite' ),
+			__( 'Plugin Settings', 'grid-accordion-lite' ),
 			$access,
 			$this->plugin_slug . '-settings',
 			array( $this, 'render_plugin_settings_page' )
@@ -192,8 +192,8 @@ class BQW_Grid_Accordion_Lite_Admin {
 
 		$this->plugin_screen_hook_suffixes[] = add_submenu_page(
 			$this->plugin_slug,
-			__( 'Upgrade', $this->plugin_slug ),
-			__( 'Upgrade', $this->plugin_slug ),
+			__( 'Upgrade', 'grid-accordion-lite' ),
+			__( 'Upgrade', 'grid-accordion-lite' ),
 			$access,
 			$this->plugin_slug . '-ugrade',
 			array( $this, 'render_upgrade_page' )
